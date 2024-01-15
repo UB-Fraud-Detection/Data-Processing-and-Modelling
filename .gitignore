@@ -1,2 +1,6 @@
-data/
-venv/
+/venv/
+/data_/
+/Grownet/data_
+/.ipynb_checkpoints/
+/Notebooks_/
+/oversample_scripts/
